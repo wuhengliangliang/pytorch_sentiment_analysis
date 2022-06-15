@@ -1,3 +1,4 @@
+详细博客介绍：https://blog.csdn.net/qq_41479464/article/details/125286054?spm=1001.2014.3001.5501
 # pytorch_sentiment_analysis
 基于Pytorch的LSTM实战160万条评论情感分类
 数据在百度网盘链接中：
