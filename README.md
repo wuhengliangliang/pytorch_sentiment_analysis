@@ -2,6 +2,9 @@
 # pytorch_sentiment_analysis
 基于Pytorch的LSTM实战160万条评论情感分类
 数据在百度网盘链接中：
+链接：https://pan.baidu.com/s/1CJfacbXhNljXGoL78UyFqA 
+提取码：kqp2 
+--来自百度网盘超级会员V5的分享
 
 目标：情感分类
 数据集 Sentiment140, Twitter上的内容 包含160万条记录，0 ： 负面， 2 ： 中性， 4 ： 正面
